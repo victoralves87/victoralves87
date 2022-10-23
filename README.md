@@ -3,7 +3,7 @@
 
 
 
-* 🌍 sediado em Recife, Pernambuco.
+* 🌍 Recife, Pernambuco.
 * ![voctorralves@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) você pode entrar em contato comigo em (voctorralves@gmail.com)
 * 🧠 atualmente estou Cursando Sistemas para internet.
 
