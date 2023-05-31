@@ -16,7 +16,10 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://user-images.githubusercontent.com/112765893/224705852-681e46b8-b17d-4080-a961-4e6b2fcc8b0b.png" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://user-images.githubusercontent.com/112765893/224705907-2824d55e-6e30-40f0-864b-2116ea30be68.png"width="40" height="40"/>&nbsp;
+ <img src="https://user-images.githubusercontent.com/112765893/224705907-2824d55e-6e30-40f0-864b-2116ea30be68.png"width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+          
+  
 </div>
 
 ---
