@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
-- 👨‍🎓Estudante do Curso Superior de Sistemas Para Internet 👨‍🎓
+- 👨‍🎓Estudante de Engenharia de Software e formado em Sistemas Para Internet 👨‍🎓
 
 
 -👩‍💻 Buscando mais conhecimento.
